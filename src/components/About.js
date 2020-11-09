@@ -13,15 +13,15 @@ const About = () => {
         <h3>Imad MACHI</h3>
         <p>
           Imad MACHI is a front-end developer, he builds responsive websites
-          using React&redux, css and other front-end technologies.
+          using React, redux, css and other front-end technologies.
         </p>
         <p>
           He is learning programming on his own, and focusing on new
           technologies and last versions of the old ones.
         </p>
         <p>
-          Besides web thechnologies, Imad learns also algorithms and data
-          structures, and frequently practicing problems-solving challenge.
+          Besides web thechnologies, Imad is also learning algorithms and data
+          structures, and frequently practicing problems-solving challenges.
         </p>
       </div>
       <div className="main__works">
