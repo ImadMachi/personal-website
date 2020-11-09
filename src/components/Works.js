@@ -9,6 +9,21 @@ const Works = () => {
         link="https://github.com/ImadMachi/react-redux-notes-app"
         imagePath="note-app-snip.jpg"
       />
+      <ProjectCard
+        description="A styled react-redux notes application.(react redux htmlv4 font-awesome uuidv4 html css)"
+        link="https://github.com/ImadMachi/react-redux-notes-app"
+        imagePath="note-app-snip.jpg"
+      />
+      <ProjectCard
+        description="A styled react-redux notes application.(react redux htmlv4 font-awesome uuidv4 html css)"
+        link="https://github.com/ImadMachi/react-redux-notes-app"
+        imagePath="note-app-snip.jpg"
+      />
+      <ProjectCard
+        description="A styled react-redux notes application.(react redux htmlv4 font-awesome uuidv4 html css)"
+        link="https://github.com/ImadMachi/react-redux-notes-app"
+        imagePath="note-app-snip.jpg"
+      />
     </div>
   );
 };
