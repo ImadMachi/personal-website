@@ -1,0 +1,8 @@
+@import "./_base.css";
+@import "./components/_header.css";
+@import "./components/_about.css";
+@import "./components/_project-card.css";
+@import "./components/_footer.css";
+@import "./components/_works.css";
+@import "./components/_portfolio.css";
+@import "./components/_contact.css";

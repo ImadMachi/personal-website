@@ -1,0 +1,16 @@
+.portfolio {
+  padding: 1rem;
+  min-height: 700px;
+}
+
+.portfolio__title {
+  color: #346da1;
+  padding: 2rem 1rem;
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 763px) {
+  .portfolio {
+    padding: 1rem 5rem;
+  }
+}

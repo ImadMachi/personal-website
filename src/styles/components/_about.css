@@ -1,0 +1,45 @@
+.main {
+  display: grid;
+  grid:
+    "image"
+    "bio"
+    "works ";
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.main__personal-image {
+  width: 30rem;
+  height: 30rem;
+  border-radius: 50%;
+  grid-area: image;
+  margin: 0 auto;
+}
+
+.main__biography {
+  grid-area: bio;
+  font-family: cursive;
+  font-size: 2rem;
+  line-height: 3rem;
+}
+
+.main__works {
+  grid-area: works;
+}
+
+.main__works__title {
+  color: #346da1;
+  text-decoration: underline;
+  padding: 2rem 1rem;
+}
+
+@media only screen and (min-width: 763px) {
+  .main {
+    grid:
+      ".  image . bio bio"
+      "works works works works works";
+
+    gap: 5rem;
+    padding: 1rem 5rem;
+  }
+}
