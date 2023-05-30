@@ -33,3 +33,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# loaded in all cases
+.env
+# loaded in all cases, ignored by git
+.env.local
